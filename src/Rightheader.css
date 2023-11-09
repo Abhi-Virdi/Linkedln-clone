@@ -1,0 +1,23 @@
+.right_header{
+    display: flex;
+}
+
+.right_opt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.right_icon{
+    margin-right: 1rem;
+}
+
+.right_title{
+    margin: 0rem;
+    font-size: 10px;
+}
+.avatar_right{
+    height: 20px;
+}
